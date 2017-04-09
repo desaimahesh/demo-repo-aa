@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.aa.mss.controller.Swagger2MarkupTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.71 sec - in com.aa.mss.controller.Swagger2MarkupTest
